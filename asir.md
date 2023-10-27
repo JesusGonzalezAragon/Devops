@@ -1,5 +1,6 @@
 ## ¿Qué es un administrador de sistemas? :technologist:
 ![Imagen](https://aldeahost.com.mx/wp-content/uploads/2018/11/adminis-sistemas.png)
+
 El administrador de sistema normalmente no es un rol en sí mismo, sino que abarca múltiples roles. Podemos hablar por ejemplo de:
 
 - Administrador de los sistemas operativos.
